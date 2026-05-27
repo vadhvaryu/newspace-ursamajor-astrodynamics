@@ -1,6 +1,6 @@
 # newspace-ursamajor-astrodynamics
 
-Relevant Basilisk files for NewSpace @ Berkeley's Astrodynamics project for Ursa Major.
+Relevant Basilisk files for NewSpace @ Berkeley's Astrodynamics project for Ursa Major (2025-2026).
 
 > **Note:** Basilisk must be downloaded and placed appropriately before running any simulation code.
 > Download link and official documentation: [https://avslab.github.io/basilisk/](https://avslab.github.io/basilisk/)
